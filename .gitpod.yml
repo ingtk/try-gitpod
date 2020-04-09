@@ -2,3 +2,8 @@ tasks:
   - init: echo "Replace me with a build script for the project."
     command: echo "Replace me with something that should run on every start, or just
       remove me entirely."
+
+vscode:
+  extensions:
+    - vscodevim.vim@1.13.1:SI3AUi8tRZQWIfdXgXHbOQ==
+    - streetsidesoftware.code-spell-checker@1.8.0:pOcw5Mko+D583rMKG2b1PQ==
